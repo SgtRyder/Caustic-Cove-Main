@@ -7,12 +7,12 @@
 
 /datum/crafting_recipe/roguetown/sewing/headdress
 	name = "foreign headdress (blue)"
-	result = list(/obj/item/clothing/suit/roguetown/armor/egypt)
+	result = list(/obj/item/clothing/head/headdress)
 	reqs = list(/obj/item/natural/silk = 2)
 	craftdiff = 3
 
 /datum/crafting_recipe/roguetown/sewing/headdressalt
 	name = "foreign headdress (red)"
-	result = list(/obj/item/clothing/suit/roguetown/armor/egypt)
+	result = list(/obj/item/clothing/head/head/headdress/alt)
 	reqs = list(/obj/item/natural/silk = 2)
 	craftdiff = 3
