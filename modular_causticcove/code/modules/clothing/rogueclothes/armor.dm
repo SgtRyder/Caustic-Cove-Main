@@ -8,6 +8,7 @@
 	allowed_sex = list(MALE, FEMALE)
 	allowed_race = CLOTHED_RACES_TYPES
 	slot_flags = ITEM_SLOT_CLOAK|ITEM_SLOT_ARMOR|ITEM_SLOT_SHIRT
+	sewrepair = TRUE
 	
 /obj/item/clothing/suit/roguetown/armor/barrelarmor
 	name = "barrel armor"
