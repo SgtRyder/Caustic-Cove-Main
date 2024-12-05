@@ -12,7 +12,7 @@
 /obj/item/clothing/suit/roguetown/armor/barrelarmor
 	name = "barrel armor"
 	desc = "It's a barrel. Being used as armor. I'm not sure what more needs to be said."
-  icon = 'modular_causticcove/icons/roguetown/clothing/armor.dmi'
+	icon = 'modular_causticcove/icons/roguetown/clothing/armor.dmi'
 	mob_overlay_icon = 'modular_causticcove/icons/roguetown/clothing/onmob/armor.dmi'
 	icon_state = "barrelarmor"
 	item_state = "barrelarmor"
